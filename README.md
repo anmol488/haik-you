@@ -1,4 +1,4 @@
-# Welcome to <Haik you> aka The Haiku Project!
+# Welcome to The Haiku Project!
 
 ## This publication website was developed by me. The tech stack I used included:
 - React.js
