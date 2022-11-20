@@ -1,8 +1,6 @@
 //  icons
 import {
-  FiInstagram,
   FiGithub,
-  FiTwitter,
   FiMail,
 } from 'react-icons/fi';
 
@@ -37,16 +35,8 @@ export const navigation = [
 // social
 export const social = [
   {
-    icon: <FiInstagram />,
-    href: '',
-  },
-  {
-    icon: <FiTwitter />,
-    href: '',
-  },
-  {
     icon: <FiGithub />,
-    href: '',
+    href: 'https://github.com/anmol488/haik-you',
   },
 ];
 

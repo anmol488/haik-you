@@ -23,9 +23,9 @@ const About = () => {
               </p>
               <hr className='mb-8 opacity-5' />
               <p className='mb-8'>
-                Our core team members include <b>Kiyan Mumtaz</b>, who calls himself the Haiku Master; <b>Aarush Kumar</b>, who is also the president of The Poetry Society at DIA; <b>Rayed Hamayun</b>, who just likes poems in general; <b>Arjuan Nair</b>, our creativity incarnate; and finally <b>Anmol Hurkat</b>, who developed this website for y'all.<br />
+                Our core team members include <b>Kiyan Mumtaz</b>, who calls himself the Haiku Master; <b>Aarush Kumar</b>, who is also the president of The Poetry Society at DIA; <b>Rayed Hamayun</b>, who just likes poems in general; <b>Arjuan Nair</b>, our creativity incarnate; and finally <b>Anmol Hurkat</b>, who developed this website.<br />
                 <br />
-                Please scroll down to view a collection of original Haikus written by us, and of course, from our lovely peers who volunteered to contribute to our little endeavor....
+                Scroll down to view a collection of original Haikus written by us, and of course, from our lovely peers who volunteered to contribute to our little endeavor....
               </p>
             </div>
           </div>
