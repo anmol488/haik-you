@@ -4,7 +4,6 @@ import {
   FiGithub,
   FiTwitter,
   FiMail,
-  FiMapPin,
 } from 'react-icons/fi';
 
 // projects images
