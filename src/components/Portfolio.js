@@ -12,7 +12,7 @@ const Portfolio = () => {
             All our Haikus
           </h2>
           <p className='subtitle'>
-            Click on each contributor's name  below to view their Haiku portfolio. Each Haiku follows the 3-5-3 Haiku rule to maintain uniformity. We hope you enjoy!
+            Click on each contributor's name below to view their Haiku portfolio. Each Haiku follows the 3-5-3 Haiku rule to maintain uniformity. We hope you enjoy!
           </p>
         </div>
         <Projects />

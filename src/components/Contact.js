@@ -18,7 +18,7 @@ const Contact = () => {
             Feedback
           </h2>
           <p className='subtitle'>
-            Tell us what you think about the Haikus that you just read. We would love to hear about it, and try to improve our project based on constructive criticism!
+            Tell us what you think about the Haikus that you just read. We would love to hear you, and try to improve our project based on constructive criticism!
           </p>
         </div>
         <div
