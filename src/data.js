@@ -1,5 +1,4 @@
 import {
-  FiGithub,
   FiMail,
 } from 'react-icons/fi';
 
@@ -119,10 +118,6 @@ export const navigation = [
 ];
 
 export const social = [
-  {
-    icon: <FiGithub />,
-    href: 'https://github.com/anmol488/haik-you',
-  },
 ];
 
 export const projectsData = [
