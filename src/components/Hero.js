@@ -19,7 +19,7 @@ const Hero = () => {
               A student-led <br />  Haiku publication.
             </h1>
             <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
-              We're a team of students dedicated to spread the art of writing Haikus by encouraging peers to submit their original creations to us.
+              We're a team of students dedicated to spread the art of writing Haikus by encouraging peers to submit their original creations to us. 
             </p>
           </div>
           <div className='hidden lg:flex flex-1 justify-center items-center h-full'>
