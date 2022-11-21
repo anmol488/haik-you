@@ -213,7 +213,7 @@ export const projectsData = [
   },
   {
     id: '1',
-    category: 'Arjun',
+    category: 'Anonymous',
     image: Arjun4,
   },
   {
